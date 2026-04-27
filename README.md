@@ -31,3 +31,13 @@
   ![highest-gpa_summary-report](assets/highest-gpa/3-3.png)
 - Graph Results
   ![highest-gpa_graph-results](assets/highest-gpa/3-4.png)
+
+Using Command Line:
+/all-student-request
+![/all-students-request_cli](assets/all-student-request/1-results.png)
+
+/all-student-name
+![/all-student-name_cli](assets/all-student-name/2-results.png)
+
+/highest-gpa 
+![/highest-gpa_cli](assets/highest-gpa/3-results.png)
